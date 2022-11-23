@@ -1,0 +1,17 @@
+﻿  PROYECTO-POO.cpp
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\LoginController.h(29,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\ClienteController.h(28,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\ClienteController.h(46,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\CategoriaController.h(28,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\CategoriaController.h(46,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\ProductoController.h(32,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\ProductoController.h(51,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\TipoPersonalController.h(27,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\TipoPersonalController.h(100,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\PersonalController.h(28,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\PersonalController.h(104,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\VentasController.h(24,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\VentasController.h(90,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\DetallesDeVentaController.h(24,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ACER\source\repos\PROYECTO-POO\PROYECTO-POO\DetallesDeVentaController.h(82,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  PROYECTO-POO.vcxproj -> C:\Users\ACER\source\repos\PROYECTO-POO\x64\Debug\PROYECTO-POO.exe
